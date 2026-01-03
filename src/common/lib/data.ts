@@ -34,32 +34,33 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: 'Social Post Digital Media',
-    post: 'Video Editor and graphic designer',
-    location: 'Madhapur, Hyderabad',
-    description:
-      'Worked in Social Post Digital Media as a Video editor and Graphic Designer',
-    icon: React.createElement(BriefcaseBusinessIcon),
-    date: 'April 2022 - December 2023',
-  },
-  {
-    title: 'Qube TV',
+    title: 'Friendsmoo Info Media',
     post: 'Video Editor and Graphic Designer',
-    location: 'Kukatpally, Hyderabad',
+    location: 'Banjara Hills Rd Number 3, Hyderabad',
     description:
-      'Worked in Qube TV as a Video editor and Graphic Designer. Provided professional grade design and editing services',
+      'Working in Friendsmoo Info Media as a Video editor and Graphic Designer. Providing professional grade design and editing services',
     icon: React.createElement(BriefcaseBusinessIcon),
     date: 'April 2025 - Present',
   },
   {
-    title: 'Friendsmoo Info Media',
-    post: 'Video Editor and Graphic Designer',
-    location: 'Hitech City, Hyderabad',
+    title: 'Social Post Digital Media',
+    post: 'Video Editor and graphic designer',
+    location: 'Jubilee Hills, Hyderabad',
     description:
-      'Working in Friendsmoo Info Media as a Video editor and Graphic Designer. Providing professional grade design and editing services',
+      'Worked in Social Post Digital Media as a Video editor and Graphic Designer',
     icon: React.createElement(BriefcaseBusinessIcon),
-    date: 'Jun 2025 - Present',
+    date: 'August 2023 - March 2025',
   },
+  
+  {
+    title: 'Qube TV',
+    post: 'Video Editor and Graphic Designer',
+    location: 'Yella Reddy Guda, Hyderabad',
+    description:
+      'Worked in Qube TV as a Video editor and Graphic Designer. Provided professional grade design and editing services',
+    icon: React.createElement(BriefcaseBusinessIcon),
+    date: 'April 2025 - Present',
+  }
 ] as const;
 
 export const images = {
