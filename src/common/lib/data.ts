@@ -59,7 +59,7 @@ export const experiencesData = [
     description:
       'Worked in Qube TV as a Video editor and Graphic Designer. Provided professional grade design and editing services',
     icon: React.createElement(BriefcaseBusinessIcon),
-    date: 'April 2025 - Present',
+    date: 'June 2022 - August 2023',
   }
 ] as const;
 
